@@ -1,10 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 body {
-  background-color: rgb(95, 255, 236);
-
-
+  background-color: #5fffec;
 }
 
 h1 {
@@ -23,4 +21,4 @@ p {
   font-family: 'Nunito', sans-serif;
   margin: 0;
 }
-
+/*# sourceMappingURL=styles.css.map */

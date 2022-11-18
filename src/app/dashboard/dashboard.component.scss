@@ -1,0 +1,16 @@
+#dashboard{
+  margin: 0 2em 0 2em;
+
+  #guageContainer{
+    margin: 2em 0 2em 0;
+    padding: 2em 0 2em 0;
+  }
+
+  #guageMeter{
+    width: 147px;
+    height: 147px;
+    border-radius: 50%;
+    background-color: rgba(108, 117, 125, 1);
+    color: white;
+  }
+}

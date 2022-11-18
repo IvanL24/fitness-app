@@ -1,0 +1,17 @@
+#dashboard {
+  margin: 0 2em 0 2em;
+}
+
+#dashboard #guageContainer {
+  margin: 2em 0 2em 0;
+  padding: 2em 0 2em 0;
+}
+
+#dashboard #guageMeter {
+  width: 147px;
+  height: 147px;
+  border-radius: 50%;
+  background-color: #6c757d;
+  color: white;
+}
+/*# sourceMappingURL=dashboard.component.css.map */
